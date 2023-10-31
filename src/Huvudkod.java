@@ -8,4 +8,5 @@ public class Huvudkod {
     final static JPanel southPanel = new JPanel();
 
     int ettTest = 5;
+    String flerTest = "test";
 }
