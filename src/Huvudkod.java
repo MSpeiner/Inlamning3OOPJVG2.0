@@ -6,4 +6,6 @@ public class Huvudkod {
     final static JPanel northPanel = new JPanel();
     final static JPanel centerPanel = new JPanel();
     final static JPanel southPanel = new JPanel();
+
+    int ettTest = 5;
 }
