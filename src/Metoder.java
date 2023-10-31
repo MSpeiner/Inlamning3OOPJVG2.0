@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.util.ArrayList;
 
 public class Metoder {
     //Skapar upp Paneler
@@ -24,4 +25,8 @@ public class Metoder {
     JButton knappFjorton = new JButton("14");
     JButton knappFemton = new JButton("15");
     JButton knappSexton = new JButton(" ");
+
+    //skapar metoder
+    Metoder m = new Metoder();
+    ArrayList<JButton> knappLista = new ArrayList<>();
 }
